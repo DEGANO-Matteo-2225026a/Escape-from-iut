@@ -22,3 +22,5 @@ npm run devStart
 ### Description
 
 * Project created for studying purposes
+
+in collaboration with : Bachar Bilal, Bradai Chiheb, Degano Matteo, Floris Miale Axel, Nguyen Lucas and Kuzmenko Yehor
